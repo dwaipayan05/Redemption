@@ -83,17 +83,17 @@
     "options": [
       {
         "text": "Good ol' beer",
-        "score": 10,
+        "score": 0,
         "q_id": "ID04"
       },
       {
         "text": "Two vodka shots",
-        "score": 11,
+        "score": 0,
         "q_id": "ID04"
       },
       {
         "text": "Pinot Noir",
-        "score": 13,
+        "score": 0,
         "q_id": "ID04"
       }
     ]
